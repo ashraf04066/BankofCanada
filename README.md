@@ -23,7 +23,7 @@ Run frontend:
 cd into the front-end folder. If you don't have node_modules in that folder, run "npm install" on the terminal to install the dependencies. Run "npm start" to start the front-end server. The server will run on localhost:3000. 
 
 Login into an account:
-When you first log in into the website, you will be on the home page. You will be defaultly logged into Elon Musk's account (elonmusk@twitter.com). If you want to login with a different account, go to the sidebar on the left and click on Authentication => Login. Here you will be redirected to the login page where all you need to do is type in a user's email to log in to their account.
+When you first log in into the website, you will be on the home page. Here you will be redirected to the login page where all you need to do is type in a user's email to log in to their account.
 
 User Expense Table Colors:
 You may wonder what the colored squares on the user's expense table on the home page means. The colored squares correspond to the price of the expense it is next to. 
